@@ -1,0 +1,3 @@
+mysite/settings/base.py
+*.pyc
+.*swp
